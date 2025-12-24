@@ -1,0 +1,9 @@
+,self_employed,Is your employer primarily a tech company/organization?,Is your primary role within your company related to tech/IT?,Do you have medical coverage (private insurance or state-provided) which includes treatment of  mental health issues?,Do you have previous employers?,Have you ever sought treatment for a mental health issue from a mental health professional?,Age
+count,1433.0,1146.0,263.0,287.0,1433.0,1433.0,1433.0
+mean,0.2002791346824843,0.7705061082024433,0.9429657794676806,0.6445993031358885,0.8820655966503839,0.5854849965108164,34.28611304954641
+std,0.4003489123731409,0.4206909542668568,0.23235014617498947,0.47947060301998895,0.32264302817050844,0.49281009856273084,11.29093092989888
+min,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+25%,0.0,1.0,1.0,0.0,1.0,0.0,28.0
+50%,0.0,1.0,1.0,1.0,1.0,1.0,33.0
+75%,0.0,1.0,1.0,1.0,1.0,1.0,39.0
+max,1.0,1.0,1.0,1.0,1.0,1.0,323.0
